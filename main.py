@@ -2,7 +2,7 @@ import re
 import tkinter as tk
 
 # Set de respuestas y variables
-aux: int = 0
+aux = 0
 respuestas = {
     "hola": "¡Que onda viejillo! ¿Pa que soy bueno?",
     "recomiendame unas rolitas": "Va,viejon, ¿Como te sientes pa.?",
@@ -32,7 +32,7 @@ respuestas_belicas = {
 }
 
 respuestas_Enamoradas = {
-    "belico": "¿Que tan belico anda viejo del 1 al 5?",
+    "enamorado": "¿Que tan enculado anda viejo del 1 al 5?",
     "1": "Si te contesto el mensaje despues de la peda   : Ella (Junior H) ",
     "2": "aaa,viejo ya anda quedando la primera cita : Psicodelica (Junior H) ",
     "3": "aaa, ya primera cita : fin de semana (Junior H) ",
